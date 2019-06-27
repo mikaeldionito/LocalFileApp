@@ -64,8 +64,8 @@
         android:paddingBottom="10dp"
         android:text="Input No Telepon" />
 
-    <TextView
-        android:id="@+id/textDataTelp"
+    <ListView
+        android:id="@+id/listView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingTop="10dp"
